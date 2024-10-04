@@ -20,6 +20,35 @@ This documentation provides an overview of the Weather App built using Flutter w
 - **GetX**: A powerful and lightweight solution for state management, dependency injection, and route management.
 - **OpenWeather API**: A RESTful API that provides weather data, allowing real-time access to current and forecasted weather conditions.
 
+##ScreenShots
+
+## User Interface Layout
+Below is the UI implementation for local storage using SharedPreferences:
+<table>
+    <tbody>
+        <tr>
+			<th>Local Storage With SharedPreferences</th>	
+		</tr>
+        <tr>
+			<td>
+				<img width="280" height='500' alt="img1" src="https://github.com/fairixx/Weather-App/blob/main/screenshots/1.png">
+				<img width="280" height='500' alt="img1" src="https://github.com/fairixx/Weather-App/blob/main/screenshots/2.png">
+				<img width="280" height='500' alt="img1" src="https://github.com/fairixx/Weather-App/blob/main/screenshots/3.png">
+				<img width="230" height='500' alt="img1" src="https://github.com/fairixx/Weather-App/blob/main/screenshots/4.png">
+				<img width="230" height='500' alt="img1" src="https://github.com/fairixx/Weather-App/blob/main/screenshots/5.png">
+			</td>
+		</tr>
+        <tr>
+			<td align="center">
+				<a href="https://github.com/fairixx/Weather-App">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=fairixx&repo=Weather-App&theme=dracula" alt="local Storage" />
+				</a>
+			</td>
+		</tr>
+    </tbody>
+</table>
+
+
 ## Setup Instructions
 
 ### Prerequisites
