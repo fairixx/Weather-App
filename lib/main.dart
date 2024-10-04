@@ -10,15 +10,14 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GetMaterialApp(
-      title: 'Flutter Demo',
+      title: 'Final Project',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         primarySwatch: Colors.lightBlue,
       ),
       initialRoute: RouteName.splashScreen,
       onGenerateRoute: Routes.generateRoute,
-      // home: const MyHomePage(title: 'WebRTC	using	Flutter'),
-      // home: const DetailDaysView(consolidatedWeatherList: consolidatedWeatherList, selectedId: selectedId, location: location),
+
     );
   }
 }

@@ -31,10 +31,6 @@ class Routes {
         return MaterialPageRoute(
           builder: (context) => const ListScreen(),
         );
-      // case RouteName.newHomeScreen:
-      //   return MaterialPageRoute(
-      //     builder: (context) => const HomeScreen(),
-      //   );
       default:
         {
           return MaterialPageRoute(
