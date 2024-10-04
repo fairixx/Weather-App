@@ -27,7 +27,7 @@ Below is the UI implementation for local storage using SharedPreferences:
 <table>
     <tbody>
         <tr>
-			<th>Local Storage With SharedPreferences</th>	
+			<th>Weather App With OpenWeather API</th>	
 		</tr>
         <tr>
 			<td>
